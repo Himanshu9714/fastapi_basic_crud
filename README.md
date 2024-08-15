@@ -21,6 +21,7 @@ This project provides a simple CRUD application for managing books. Users can:
 2. Update the Database URL:
     - Open the .env file and update the DATABASE_URL variable if needed.
     - If you change the database URL, ensure you also update it in the docker-compose.yml file.
+    - If you don't change the DATABASE_URL in the .env file, you don’t need to make any changes in the docker-compose.yml file.
 
 #### Run the docker app
 
