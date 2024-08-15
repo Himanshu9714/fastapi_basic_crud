@@ -10,7 +10,7 @@ This project provides a simple CRUD application for managing books. Users can:
 
 #### Clone the repository
 
-    git clone <repository-url>
+    git clone https://github.com/Himanshu9714/fastapi_basic_crud.git
 
 
 #### Update the env file
